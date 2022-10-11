@@ -6,4 +6,4 @@ Consiglio a chi è interessato ai vari argomenti di acquistare i libri dei vari 
 
 _Il modo migliore per supportare gli autori è acquistare i loro libri_
 
-- Flatlandia. Racconto fantastico a più dimensioni --  _Edwin A. Abbott_ (https://www.amazon.it/Flatlandia-Racconto-fantastico-pi%C3%B9-dimensioni/dp/8845909824)
+- Flatlandia. Racconto fantastico a più dimensioni --  _Edwin A. Abbott_ (https://amz.run/61GM)
