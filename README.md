@@ -11,3 +11,4 @@ _Il modo migliore per supportare gli autori è acquistare i loro libri_
 - [Il trucco c'è e si vede. Inganni e bugie sui cosmetici. E i consigli per difendersi](Il_Trucco/il_trucco.md), di _Beatrice Mautino_ -  ([Amazon](https://amz.run/61Gc))
 - [Stamina: una storia sbagliata](Stamina/stamina.md), di _Beatrice Mautino_ -  ([Amazon](https://amz.run/61Gg))
 - [L'uomo che ha inventato il XX secolo. Nikola Tesla, il genio dimenticato dell'elettricità](Tesla/tesla.md), di _Robert Lomas_ -  ([Amazon](https://amz.run/61Gi))
+- [Pane e bugie: La verità su ciò che mangiamo. I pregiudizi, gli interessi, i miti, le paure](Pane_e_Bugie/pane_e_bugie.md), di _Dario Bressanini_ - ([Amazon](https://www.amazon.it/dp/B00BOP1BHG))
